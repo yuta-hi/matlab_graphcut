@@ -2,4 +2,4 @@
 
 Examples of graphcut
 - Pixel-based graphcut
-- Superepixel-based graphcut
+- Superpixel-based graphcut
